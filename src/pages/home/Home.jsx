@@ -1,16 +1,15 @@
-import React from 'react'
+import React from "react";
 import "./home.css";
-import MainHeader from '../../components/MainHeader';
+import MainHeader from "../../components/MainHeader";
+import Programs from "../../components/Programs";
 
 const Home = () => {
   return (
     <div>
-    <MainHeader/>
-     
+      <MainHeader />
+      <Programs />
     </div>
+  );
+};
 
-
-  )
-}
-
-export default Home
+export default Home;
