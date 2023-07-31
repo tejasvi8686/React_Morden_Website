@@ -1,10 +1,10 @@
-import React from 'react'
-import "./trainers.css"
+import React from 'react';
+import "./trainers.css";
 
-const Trainers = () => {
+const Trainer = () => {
   return (
     <div>Trainers</div>
-  )
+  );
 }
 
-export default Trainers
+export default Trainer;
