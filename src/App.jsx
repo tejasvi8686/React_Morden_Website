@@ -5,7 +5,7 @@ import Contact from "./pages/contact/Contact";
 import Gallery from "./pages/gallery/Gallery";
 import Trainers from "./pages/trainers/Trainers";
 import Plans from "./pages/plans/Plans";
-import Notfound from "./pages/notfound/Notfound";
+import Notfound from "./pages/notFound/NotFound";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
