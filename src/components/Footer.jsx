@@ -21,7 +21,7 @@ const Footer = () => {
 
           <div className="footer__socials">
             <a
-              href="linkedin.com/in/tejasvi-raj-086b15227"
+              href="linkedin.com/in/tejasvi-raj-"
               target="blank"
               rel="noreferrer noopener"
             >
